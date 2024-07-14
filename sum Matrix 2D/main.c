@@ -13,6 +13,7 @@ int main()
 		fillup(A,lines,cols);
 		add("B");
 		fillup(B,lines,cols);
+		system("clear");
 		add("A");
 		display(A,lines,cols);
 		add("B");
